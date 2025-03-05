@@ -23,3 +23,6 @@ Program di atas adalah contoh analisis data penjualan menggunakan Python dengan 
 jadi dalam program ini bisa menghitung menganalisis dan memprediksi kebutuhan restok dan bisa memvisualisasikan data yang sudah diolah.
 
 # Cara Menjalankan Kode
+Unduh File Raw praktikum_ai.ipynb 
+kemudian Upload di google colab dengan klik File-> Upload NoteBook -> pilih filenya -> Enter
+Lalu jalankan tiap kodenya.
