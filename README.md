@@ -25,4 +25,5 @@ jadi dalam program ini bisa menghitung menganalisis dan memprediksi kebutuhan re
 # Cara Menjalankan Kode
 Unduh File Raw praktikum_ai.ipynb 
 kemudian Upload di google colab dengan klik File-> Upload NoteBook -> pilih filenya -> Enter
+lalu tambahkan File data_penjualan_latihan.csv ke dalam google colabss
 Lalu jalankan tiap kodenya.
